@@ -1,3 +1,5 @@
+h-hey, this is my custom fork of gods that fixes my issue with displaying battery information
+
 #gods
 
 ##Summary
