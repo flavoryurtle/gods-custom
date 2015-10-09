@@ -34,7 +34,7 @@ const (
 	memSign = "Þ"
 
 	netReceivedSign    = "Ð"
-	netTransmittedSign = "Ñ"
+	netTransmittedSign = "↑"
 
 	floatSeparator = "à"
 	dateSeparator  = "Ý"
