@@ -23,22 +23,22 @@ import (
 )
 
 const (
-	bpsSign   = "á"
-	kibpsSign = "â"
-	mibpsSign = "ã"
+	bpsSign   = "|bps|"
+	kibpsSign = "|kibps|"
+	mibpsSign = "|mibps|"
 
-	unpluggedSign = "è"
-	pluggedSign   = "é"
+	unpluggedSign = "|unplg|"
+	pluggedSign   = "|plggd|"
 
-	cpuSign = "Ï"
-	memSign = "Þ"
+	cpuSign = "|cpu|"
+	memSign = "|mem|"
 
-	netReceivedSign    = "Ð"
-	netTransmittedSign = "↑"
+	netReceivedSign    = "|dl|"
+	netTransmittedSign = "|ul|"
 
-	floatSeparator = "à"
-	dateSeparator  = "Ý"
-	fieldSeparator = "û"
+	floatSeparator = "|flt|"
+	dateSeparator  = "|date|"
+	fieldSeparator = "|fld|"
 )
 
 var (
