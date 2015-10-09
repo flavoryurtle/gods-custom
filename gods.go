@@ -23,9 +23,9 @@ import (
 )
 
 const (
-	bpsSign   = "|bps|"
-	kibpsSign = "|kibps|"
-	mibpsSign = "|mibps|"
+	bpsSign   = "| b|"
+	kibpsSign = "|kb|"
+	mibpsSign = "|mb|"
 
 	unpluggedSign = "|unplg|"
 	pluggedSign   = "|plggd|"
@@ -38,7 +38,7 @@ const (
 
 	floatSeparator = "|flt|"
 	dateSeparator  = "|date|"
-	fieldSeparator = "|fld|"
+	fieldSeparator = "|||"
 )
 
 var (
